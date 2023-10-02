@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "MhmdHsin";
+    src: url(/fonts/Roboto/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Mhmd";
+    src: url(/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "newMhmd";
+    src: url(/fonts/Archivo/Archivo-Black.ttf);
+}
